@@ -1,0 +1,12 @@
+lang_name: "العربية"
+title: "مدونتي التقنية"
+description: "مدونة تقنية ثنائية اللغة"
+home:
+  title: "الرئيسية"
+  description: "مرحباً بك في مدونتي التقنية"
+menu:
+  about: "من أنا"
+  articles: "مقالات"
+  contact: "اتصل بي"
+footer:
+  copyright: "جميع الحقوق محفوظة"
