@@ -21,6 +21,12 @@ baseurl: ""
 # Front Matter Defaults (https://jekyllrb.com/docs/configuration/front-matter-defaults/)
 ###########################################################
 defaults:
+languages:
+  en: "English"
+  ar: "العربية"
+
+default_lang: en
+
   # for posts
   - scope:
       # to separate language posts folders
